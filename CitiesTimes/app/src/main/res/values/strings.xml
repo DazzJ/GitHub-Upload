@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CitiesTimes</string>
+    <string name="t1">Sydney</string>
+    <string name="t2">Guangzhou</string>
+    <string name="t3">Tokyo</string>
+    <string name="t4">London</string>
+    <string name="t5">New York</string>
+    <string name="t6">12 Hrs AM/PM</string>
+    <string name="t7">24 Hour Format</string>
+</resources>
